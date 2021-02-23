@@ -5,9 +5,15 @@ nav{
     padding-top:7px;
 }
 
-h1,form{
+main,h1{
     text-align: center;
     color: black;
+    padding-bottom: 50px;
+}
+
+.espacio{
+    padding-bottom: 10px;
+    text-align: left;
 }
 
 a{
@@ -34,4 +40,9 @@ footer{
     margin-top:10px;
     height:50px;
     padding-top:10px;
+}
+
+ul,li{
+    display: inline-block;
+    padding-right: 25px;
 }
